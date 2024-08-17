@@ -1,7 +1,7 @@
 ## Hey! I'm Kate 👋
 
 I'm OCD kind of front-end developer with over 10 years of experience in the field. 
-I love to create and optimise web sites, code seo-friendly and pixel perfect pages, do responsive layouts and produce maintenable code. 
+I love to create and optimise web sites, code seo-friendly and pixel perfect pages, do responsive layouts and produce maintainable code. 
 I love to pay attention to ALL the details :D
 
 ### tech stack 
