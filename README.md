@@ -16,6 +16,3 @@ I love to pay attention to ALL the details :D
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" title="git" width="50" height="50"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" title="npm" width="50" height="50"/>&nbsp;
 </div>
-
-### stats
-[![GitHub Streak](https://streak-stats.demolab.com/?user=KatyaMatya21&theme=aura)](https://git.io/streak-stats)
